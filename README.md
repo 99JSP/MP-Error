@@ -1,4 +1,4 @@
-# MLog Error Logging System
+# MP-Error | Logging System
 
 ## Installation
 
